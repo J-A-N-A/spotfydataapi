@@ -1,0 +1,13 @@
+###
+POST http://localhost:3000/post
+
+{
+  "artwork":"cxbkncxmbnmcnbmnmxc",
+  "songname":"dnnbcmbdbdfb",
+  "date":"dnnbcmblxmc",
+  "artist":"dnnbcmdb",
+  "rating":4,
+}
+
+###
+GET http://localhost:3000/getall
